@@ -1,0 +1,30 @@
+#wrapper{
+    height:700px;
+    width:900px;
+    }
+#list {
+    color:#660020;
+    background-color:#ffffe6;
+    float:left;
+    width:400px;
+    font-family:"Palatino";
+    font-size:50px;
+    }
+
+#BeetsBacon {
+    background-color:#ffffe6;
+    font-family:"Courier";
+    float:right;
+    width:300px;
+    }
+    
+h1 {
+    color:#8C2F34;
+    }
+h2 {
+    font-style:italic;
+    color:#9f1313;
+    }
+/*The above was coded by Diana*/
+    body{background:#C63D0F;}
+/*The above was coded by Frida, she also picked out the font, and coded all of the colors. Yes, the colors were also picked out by Frida*/
