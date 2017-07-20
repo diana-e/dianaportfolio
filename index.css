@@ -1,0 +1,38 @@
+#wrap{
+    width:700px;
+    height:835px;
+    background-color:#c3bab8;
+    }
+
+#header {
+    height:100px;
+    }
+
+#middle{
+    height:435px;
+    }
+
+#corgithing{
+    width:600px;
+    }
+
+#middle-down{
+    height:200px;
+    }
+
+#right{
+    float:right;
+    width:100px;
+    height:835px;
+    }
+
+._button{
+    height:50px;
+    width:90px;
+    background-color:#0000cc;
+    color:white;
+    }
+
+#footer{
+    height:100px;
+    }
