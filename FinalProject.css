@@ -6,11 +6,12 @@
 #uppermiddle{
     height:400px;
     width:100%;
-    background-color:grey;
+    background-color:#B4FAF3;
     }
 #bigimage{
     height:400px;
     width:500px;
+    align:center;
     }
 #lowermiddle{
     height:400px;
