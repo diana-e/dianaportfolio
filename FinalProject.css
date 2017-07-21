@@ -1,20 +1,20 @@
 #header {
     height:50px;
-    width:700px;
+    width:100%;
     background-color:#B4DEFA;
     }
 #uppermiddle{
     height:400px;
-    width:700px;
+    width:100%;
     background-color:grey;
     }
 #bigimage{
     height:400px;
-    width:700px;
+    width:100%;
     }
 #lowermiddle{
     height:400px;
-    width:700px;
+    width:100%;
     background-color:#B4FAF3;
     text-align:center;
     }
@@ -27,6 +27,6 @@
 }
 #footer {
     height:50px;
-    width:700px;
+    width:100%;
     background-color:#B4DEFA;
     }
