@@ -1,0 +1,32 @@
+#header {
+    height:50px;
+    width:700px;
+    background-color:#B4DEFA;
+    }
+#uppermiddle{
+    height:400px;
+    width:700px;
+    background-color:grey;
+    }
+#bigimage{
+    height:400px;
+    width:700px;
+    }
+#lowermiddle{
+    height:400px;
+    width:700px;
+    background-color:#B4FAF3;
+    text-align:center;
+    }
+#oranges{
+    width:100px;
+    font-size:16px;
+    }
+#applez {
+    color:#FAFAB4;
+}
+#footer {
+    height:50px;
+    width:700px;
+    background-color:#B4DEFA;
+    }
