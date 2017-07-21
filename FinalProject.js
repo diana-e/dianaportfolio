@@ -1,13 +1,11 @@
-$("#happyapple").hide();
-$("#happyapple2").hide();
+$(".happyapple").hide();
 $("#link").hide();
 $("#limes").hide();
 $("#lemons").hide();
 $("#orangez").hide();
 
 $("#oranges").click(function(){
-    $("#happyapple").show();
-        $("#happyapple2").show();
+    $(".happyapple").show();
     $("#lowermiddle").css("background-color","#F4B4B4");
     $("#uppermiddle").css("background-color","#F4B4B4");
     $("#footer").css("background-color","#F4D7B4");
