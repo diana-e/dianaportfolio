@@ -1,10 +1,10 @@
 #header {
-    height:50px;
+    height:60px;
     width:100%;
     background-color:#B4DEFA;
     }
 #uppermiddle{
-    height:400px;
+    height:500px;
     width:100%;
     background-color:#B4FAF3;
     }
@@ -15,7 +15,7 @@
     height:400px;
 }
 #lowermiddle{
-    height:400px;
+    height:500px;
     width:100%;
     background-color:#B4FAF3;
     text-align:center;
@@ -28,7 +28,7 @@
     color:#FAFAB4;
 }
 #footer {
-    height:50px;
+    height:60px;
     width:100%;
     background-color:#B4DEFA;
     }
