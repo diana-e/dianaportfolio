@@ -9,6 +9,7 @@ $("#oranges").click(function(){
     $("#happyapple").show();
         $("#happyapple2").show();
     $("#lowermiddle").css("background-color","#F4B4B4");
+    $("#uppermiddle").css("background-color","#F4B4B4");
     $("#footer").css("background-color","#F4D7B4");
     $("#header").css("background-color","#F4D7B4");
     $("#link").show();
